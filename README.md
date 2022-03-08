@@ -1,3 +1,3 @@
 # JavaScript (TypeScript)
 
-This is basic bot coded in typescript!
+This is a basic bot coded in typescript!
